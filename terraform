@@ -1,0 +1,12 @@
+```json
+{
+  "status": "error",
+  "message": "Invalid input format",
+  "error_code": "INVALID_INPUT",
+  "suggestions": [
+    "Example: 'Create AWS infrastructure for a web application with EC2, RDS, and S3'",
+    "Example: 'Create Azure infrastructure for a database with SQL Database and Storage Account'",
+    "Example: 'Create GCP infrastructure for a Kubernetes cluster with GKE'"
+  ]
+}
+```
